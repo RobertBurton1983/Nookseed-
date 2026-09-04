@@ -1,1 +1,1 @@
-{ "name": "nookseed", "version": "1.0.0", "private": true, "description": "nookseed hobby app with "dependencies": { "stripe": "latest"       
+{ "name": "nookseed","version": "1.0.0","private": true,"dependencies":{"stripe": "latest"}}      
