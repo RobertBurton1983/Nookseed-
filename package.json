@@ -1,0 +1,1 @@
+{ "name": "nookseed", "version": "1.0.0", "private": true, "description": "nookseed hobby app with "dependencies": { "stripe": "^17.0.0"        
